@@ -1,0 +1,146 @@
+{
+    "video_id": "Y_4/5.mp4",
+    "original_path": "/",
+    "duration": 635.205011,
+    "width": 1920,
+    "height": 1080,
+    "fps": 30.0,
+    "bit_rate": 4923430,
+    "codec": "h264",
+    "segment_duration": 30,
+    "init_hash": "dd34c926f5bd8ebb5ed8a51cb6c7554296ac11d44fd15362683e40d147b24469",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 25.0,
+            "hash": "fc66495a4116a8f1119a97e482bc8f7750f8639ce9261de8f9280d6a58f9a107",
+            "size": 8859531
+        },
+        {
+            "start": 25.0,
+            "end": 58.333333,
+            "hash": "0cb9047669396d4a528645bbd4907dace21b9b298e3b2c5e2666bc04d384e2dd",
+            "size": 9811656
+        },
+        {
+            "start": 58.333333,
+            "end": 83.333333,
+            "hash": "97cabae61ba89f68dcd59c7a5d0c98fa2873052300a09f834882702867ec98be",
+            "size": 7793118
+        },
+        {
+            "start": 83.333333,
+            "end": 116.666666,
+            "hash": "a5572acbea108af0ba1f8fbba1172d865e1d9ab48540a926ffda2f2b819bd5c4",
+            "size": 9737502
+        },
+        {
+            "start": 116.666666,
+            "end": 118.433333,
+            "hash": "10e066ab9a89263b811d4947cfd5fa9fcb13f0cc5a0f4637a70539db4d9a8fe7",
+            "size": 6447113
+        },
+        {
+            "start": 118.433333,
+            "end": 148.433333,
+            "hash": "7138b04d605d9692de969379172632a59fe8aa3ab04c39aeb2e5a3dd71940c6b",
+            "size": 8934761
+        },
+        {
+            "start": 148.433333,
+            "end": 178.433333,
+            "hash": "068f3699ce84fa18c90c76bfd68526f0802b7bfbc17586d64ff93da6badbf21d",
+            "size": 9141542
+        },
+        {
+            "start": 178.433333,
+            "end": 208.433333,
+            "hash": "14f09cded9fd5d4e24ef7caaa9a083070efdda7a943771d04c0912792e0c735f",
+            "size": 7179498
+        },
+        {
+            "start": 208.433333,
+            "end": 238.433333,
+            "hash": "4f1d6a4665e61d1384d9910309241267009afbf5523dada2e6104c50df109377",
+            "size": 9730551
+        },
+        {
+            "start": 238.433333,
+            "end": 268.433333,
+            "hash": "b1c3c283dcc531ce36275926db4db0bbb590eb12075d38ba8373a645a1811e91",
+            "size": 6662676
+        },
+        {
+            "start": 268.433333,
+            "end": 298.433333,
+            "hash": "db2be36171072aafa4538c5e903e0a9c594338bb3aa125cd7cbf95d5120272af",
+            "size": 8902834
+        },
+        {
+            "start": 298.433333,
+            "end": 328.433333,
+            "hash": "3154baaecdbd9c055c8cad95f1a14a3bd3fde6eb6942d371e02e4852d69e27c8",
+            "size": 8892759
+        },
+        {
+            "start": 328.433333,
+            "end": 358.433333,
+            "hash": "b9c45435345538823293ff35a2936e461aae5ce05d34aaf8748615234497722b",
+            "size": 6868650
+        },
+        {
+            "start": 358.433333,
+            "end": 388.433333,
+            "hash": "cbedb455f5507d1f066a6c0fcd5ac80c9d0ad7c264f694b9f06648b29f2311f5",
+            "size": 9433092
+        },
+        {
+            "start": 388.433333,
+            "end": 418.433333,
+            "hash": "e20f69f6c48d619635cb1c6091241faf485a5ce0f6922b00bc2924357f69c5aa",
+            "size": 6912768
+        },
+        {
+            "start": 418.433333,
+            "end": 448.433333,
+            "hash": "da3aae4dc4352bfdafb98a9056f44a22a4d82b7b5073d80e89bd3bf18aaa24b3",
+            "size": 9650394
+        },
+        {
+            "start": 448.433333,
+            "end": 478.433333,
+            "hash": "82736783c91cea92c4a59aa6184d2c18622d459c6f3f352b64a69864a73613da",
+            "size": 10235354
+        },
+        {
+            "start": 478.433333,
+            "end": 508.433333,
+            "hash": "2e3c2dd63436ecd57415bee3ae99dae94adbf91e39721d7c3c2e3d2e0fd4356e",
+            "size": 5920074
+        },
+        {
+            "start": 508.433333,
+            "end": 538.433333,
+            "hash": "4b74bbe28fa2ae84f8b364a99c4ef6dbd2c3eae86e68b029db1b5d752fb650d6",
+            "size": 8996754
+        },
+        {
+            "start": 538.433333,
+            "end": 568.433333,
+            "hash": "fd935bd926badca2d4afa367078e40b0a0bf16eac40eedd5bce080e13fe81c0d",
+            "size": 7922270
+        },
+        {
+            "start": 568.433333,
+            "end": 598.433333,
+            "hash": "b00376265ceb4e1ee9615ec0645208aaa6a7805b29236f1d9e4fe68ece70054c",
+            "size": 8639836
+        },
+        {
+            "start": 598.433333,
+            "end": 628.433333,
+            "hash": "d2b4e07c5b77a59e94b9b83cc73737d47c15657bd2c2fa69973e776aff3daeb5",
+            "size": 36651
+        }
+    ]
+}
